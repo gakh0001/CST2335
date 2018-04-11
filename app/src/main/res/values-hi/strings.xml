@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AndroidLabs</string>
+    <string name="hello_message">नमस्ते</string>
+    <string name="ButtonText">मैं\ एक बटन हूँ</string>
+    <string name="Login">लॉग\ इन करें</string>
+    <string name="Password">पारण\ शब्द</string>
+
+    <string name="dialog_title">चेतावनी!</string>
+    <string name="dialog_Message">क्या आप जारी रखना चाहते हैं!</string>
+
+    <string name="startChat">प्रारंभ</string>
+    <string name="sendButtonText">भेजना</string>
+
+</resources>
